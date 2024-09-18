@@ -1,0 +1,4 @@
+fastapi==0.114.2
+protobuf==5.28.1
+streamlit==1.12.0
+Wikipedia_API==0.7.1
